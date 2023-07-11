@@ -1,0 +1,13 @@
+  {
+    "type": "web",
+    "project_id": "gmailp-392008",
+    "private_key": "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",
+    "client_email": "ads.lucvantien@gmail.com",
+    "client_id": "1005174377709-40alkmbca7t2eeh41crre3tgcbc5p5ab.apps.googleusercontent.com",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/your-client-email"
+  }
+  
+  
